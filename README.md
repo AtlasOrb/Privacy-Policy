@@ -6,21 +6,23 @@
     <h1 align="center">Privacy Policy</h1>
 </p>
 
-<strong>This privacy policy will explain what information the launcher and client collects from you the user and why we collect it.</strong>
+<strong>This privacy policy will explain what information the website and plugin collects and why we collect it.</strong>
 
-<strong>Aero Client may collect the following from you:</strong>
+<strong>The website may collect the following from you:</strong>
 
-<!-- <p>- Left Mouse Button and Right Mouse button Clicking patterns.</p> -->
+<p>- The type of browser that is being used to determine which content to display.</p>
 
-<p>- Your Clicks Per Second while clicking the Left Mouse Button or the Right Mouse Button.</p>
+<p>- Your browsers windows sizing to be able to auto-size content to better fit the website.</p>
 
-<strong>Duration information is collected for:</strong>
+<strong>The plugins may collect the following:</strong>
 
-<p>The information is collected for the duration that the game is "launched". The anticheat will be active once the you are in a Singleplayer world/map, or a Multiplayer Server.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 
-<strong>Why the client collects this information:</strong>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+
+<strong>Why it collects this information:</strong>
 <br>
-<p>Aero Client collects this information above to prevent the use of cheats in Minecraft on Aero Client.<p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<p>
 <br>
 <br>
 </html>
