@@ -23,10 +23,4 @@
 <p>Aero Client collects this information above to prevent the use of cheats in Minecraft on Aero Client.<p>
 <br>
 <br>
-<p align="center">
-    <a href="https://github.com/Aero-Client/Terms-of-Service">
-    <img src="https://raw.githubusercontent.com/Aero-Client/Aero-Client.github.io/master/button2.png">
-    </a>
-</p>
-
 </html>
