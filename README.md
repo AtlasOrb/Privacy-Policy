@@ -2,7 +2,7 @@
 <html>
 
 <p align="center">
-    <img src="https://i.imgur.com/e4Au1VM.png" width="150" height="150"/>
+    <img src="https://i.imgur.com/a/uiqe9Hw.png" width="150" height="150"/>
     <h1 align="center">Privacy Policy</h1>
 </p>
 
